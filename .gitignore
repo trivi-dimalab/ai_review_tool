@@ -1,0 +1,17 @@
+# Ignore .env file
+.env
+
+# Ignore files in backend/public/model/ directory
+backend/public/model/*
+
+# Ignore files in backend/public/model/ directory
+backend/model/*
+
+# Ignore files in backend/public/reference/ directory
+backend/public/reference/*
+
+# Ignore files in frontend/node_modules/* directory
+frontend/node_modules/*
+
+# Ignore pybliometrics.cfg file
+pybliometrics.cfg

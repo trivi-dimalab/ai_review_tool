@@ -20,7 +20,7 @@ Make sure you have the following installed on your development environment:
     cd ai_review_tool
     ```
 
-2. **Download the language model and place it inside the backend folder.**
+2. **Download the language model (https://drive.google.com/drive/u/0/folders/1-uZPVNH9UwxwXtX8bMTf-5GQGJ4s8jCP) and place it inside the backend folder.**
 
 ## Update Configuration Files:
 
